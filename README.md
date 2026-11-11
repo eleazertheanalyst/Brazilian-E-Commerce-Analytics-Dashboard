@@ -1,6 +1,7 @@
 # Brazilian E-Commerce Analytics Dashboard (Microsoft Fabric, SQL & Power BI)
 
-### Dashboard Link : [https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/8e2cf146-590d-4ed5-84eb-12f2c1eaece3/684b2a4e79bbce4c98bf?experience=power-bi](https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/8e2cf146-590d-4ed5-84eb-12f2c1eaece3/684b2a4e79bbce4c98bf?experience=power-bi\&utm_source=chatgpt.com)
+### Dashboard 
+<img width="1415" height="798" alt="Executive sales and logistic_main" src="https://github.com/user-attachments/assets/1c41cadf-61e6-46ac-9bf4-5284204a0ecb" />
 
 ## Project Overview
 
@@ -350,8 +351,10 @@ Dashboard Design
 # Snapshot of Dashboard
 
 ### Power BI Service
+<img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/35778c9c-ae45-42bf-9085-8c2eb8155f33" />
 
 ### Power BI Desktop
+<img width="1914" height="998" alt="image" src="https://github.com/user-attachments/assets/ca348e62-01df-4022-ab36-5723c92e6fef" />
 
 # Dashboard Insights
 
